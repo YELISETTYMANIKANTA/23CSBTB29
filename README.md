@@ -12,3 +12,4 @@ https://github.com/YELISETTYMANIKANTA/23CSBTB29/blob/main/Assnment_6.ipynb
 https://github.com/YELISETTYMANIKANTA/23CSBTB29/blob/main/Lab%20exam.ipynb
 https://github.com/YELISETTYMANIKANTA/23CSBTB29/blob/main/aiml_lab_07.ipynb
 https://github.com/YELISETTYMANIKANTA/23CSBTB29/blob/main/lab_08.ipynb
+https://github.com/YELISETTYMANIKANTA/23CSBTB29/blob/main/aiml_lab_09.ipynb
