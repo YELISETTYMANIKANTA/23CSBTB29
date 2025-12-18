@@ -15,3 +15,4 @@ https://github.com/YELISETTYMANIKANTA/23CSBTB29/blob/main/lab_08.ipynb
 https://github.com/YELISETTYMANIKANTA/23CSBTB29/blob/main/aiml_lab_09.ipynb
 https://github.com/YELISETTYMANIKANTA/23CSBTB29/blob/main/lab_10.ipynb
 https://github.com/YELISETTYMANIKANTA/23CSBTB29/blob/main/2303A51599%20Batch%20No%20%3A-29.ipynb
+https://github.com/YELISETTYMANIKANTA/23CSBTB29/blob/main/Untitled26.ipynb
